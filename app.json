@@ -2,7 +2,7 @@
     "name": "Agora Cloner",
     "logo": "nothing",
     "description": "Nothing"
-    "repository": "",
+    "repository": "https://github.com/MR-AGORA/AGORA-CLONER",
     "stack": "container",
     "env": {
         "API_ID": {
