@@ -1,0 +1,18 @@
+{
+    "name": "Agora Cloner",
+    "logo": "nothing",
+    "description": "Nothing"
+    "repository": "",
+    "stack": "container",
+    "env": {
+        "API_ID": {
+            "description": "Your App ID",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Your App Hash",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token",
+            "required": true
