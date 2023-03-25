@@ -3,7 +3,7 @@
     "logo": "https://te.legra.ph/file/be6ed06925d7c1864d495.jpg",
     "description": "Cloner ra lucha"
     "repository": "https://github.com/MR-AGORA/AGORA-CLONER",
-    "keywords": "productivity","HTML5",""scalpel"
+    "keywords": "productivity","HTML5","scalpel"
     "stack": "heroku-20",
     "env": {
         "API_ID": {
